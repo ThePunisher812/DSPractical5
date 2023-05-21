@@ -3,7 +3,7 @@ Steps:
 
 1. javac *.java
 
-         OR
+       OR
   
  - javac MutualServer.java
  - javac ClientOne.java
